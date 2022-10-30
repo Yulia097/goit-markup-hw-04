@@ -491,3 +491,9 @@ h2 {
   height: 12px;
   fill: red;
 } */
+.footer-social-media {
+  display: flex;
+  width: 206px;
+  height: 80px;
+  color: var(--primary-white-color);
+}
